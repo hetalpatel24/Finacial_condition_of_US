@@ -4,7 +4,9 @@
 
 ### Team Members: Pete Hoessel, Hetal Patel ,Ke Zhao
 
-### Project Link:
+### Final Project Link:
+
+### Data Source: 
 
 Our goal for the final project is to analyze the financial position of the U.S. and help the average person make sense of 
 some of what they hear in the news regarding savings, income, wealth, and debt:
