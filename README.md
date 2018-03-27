@@ -1,9 +1,10 @@
-# Finacial_condition_of_US
 # A Data Vizulisation Project 3: Analysis of US Financial Condition.
 
-Team Name:
+### Team Name:
 
-Team Members: Pete Hoessel, Hetal Patel ,Ke Zhao
+### Team Members: Pete Hoessel, Hetal Patel ,Ke Zhao
+
+### Project Link:
 
 Our goal for the final project is to analyze the financial position of the U.S. and help the average person make sense of 
 some of what they hear in the news regarding savings, income, wealth, and debt:
@@ -14,7 +15,7 @@ the U.S. is in trillions upon trillions of dollars in debt?!
 Our objective is to help shed some light on just how dire (or not dire) the U.S. financial situation is through visualization.
 
 
-Data exploration of:
+## Data exploration of:
 
 *U.S. financial condition vs. other countries
 
@@ -23,7 +24,7 @@ Data exploration of:
 *Drilled down data of U.S. households (Assets and liabilities composition and median values)
 
 
-Tools we will use:
+## Tools we will use:
 
 *Manipulation / cleaning of data via Python/Pandas and/or SQL
 
